@@ -1,0 +1,69 @@
+{
+  "name": "LUNAR#517",
+  "symbol": "KRKN",
+  "description": "Evolve, Plug in, Switch on, Join the Hunt & Stake your Claim on the Future - Now. Bounty Hunters are a collection of 8000 unique NFT's on the solana blockchain",
+  "seller_fee_basis_points": 200,
+  "image": "https://img-cdn.magiceden.dev/rs:fill:640:640:0:0/plain/https://arweave.net/34bB_pEubZW-87Cjrd7k_szXWvZqV5vRV80zG_d50n8",
+  "attributes": [
+ {
+      "trait_type": "Animal",
+      "value": "Snake"
+    },
+    {
+      "trait_type": "Back Item",
+      "value": "Legendary Snake"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Legendary Snake"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Legendary Snake"
+    },
+    {
+      "trait_type": "Eyes and Glasses",
+      "value": "Legendary Snake"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Legendary Snake"
+    },
+    {
+      "trait_type": "In Mouth",
+      "value": "Legendary Snake"
+    },
+    {
+      "trait_type": "Logo",
+      "value": "Legendary Snake"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Legendary Snake"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Legendary Snake"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Legendary Snake"
+    },
+    {
+      "trait_type": "Suit Pattern",
+      "value": "Legendary Snake"
+    },
+    {
+      "trait_type": "Zodiac Sign",
+      "value": "Legendary Snake"
+    }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "8CA6cwo9PpqUsDB8WU4vB5eFJYRv3cA3kYyrGy2p5iAZ",
+        "share": 100
+      }
+    ]
+  }
+
